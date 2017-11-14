@@ -1,5 +1,5 @@
 var playlist = {
-  arcticMonkeys : 'arabella'
+  arcticMonkeys: 'arabella'
   linkinPark: 'numb'
   disclosure: 'nocturnal'
 }
