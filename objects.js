@@ -4,7 +4,6 @@ var playlist = {
   disclosure: 'nocturnal'
 }
 
-function updatePlaylist(playlist,bandname,title) {
-  playlist.bandname = "title"
-  return playlist 
+function updatePlaylist(object,string,title) {
+Object.assign({}, object, {string: title})
 }
