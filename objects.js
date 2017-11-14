@@ -1,6 +1,6 @@
 var playlist = {
-  arcticMonkeys: 'arabella'
-  linkinPark: 'numb'
+  arcticMonkeys: 'arabella',
+  linkinPark: 'numb',
   disclosure: 'nocturnal'
 }
 
